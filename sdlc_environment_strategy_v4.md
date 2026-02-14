@@ -58,7 +58,7 @@ v3 was a simplified 5-tier model. **v4 reflects actual production workflows**:
 
 **Testing**: Manual integration testing, cross-service validation
 
-**Lifespan**: Weeks/months (until manually deleted)
+**Lifespan**: Days/Weeks (until manually deleted)
 
 ---
 
